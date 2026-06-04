@@ -83,7 +83,7 @@ My current focus is on:
 
 ## 📫 Contact & Profiles
 
-- 📧 Email: brunobeijuka@gmail.com  
+- 📧 Email: brunobeijuka@gmail.com || bruno.beijuka@marconilab.org  
 - 📱 Phone: +256 7585940173  
 - 🐦 Twitter/X: https://x.com/BrunoBeijuka  
 - 💻 GitHub: https://github.com/Beijukabruno  
