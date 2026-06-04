@@ -75,7 +75,7 @@ My current focus is on:
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beijukabruno&layout=compact&theme=radical&hide_border=true" />
 
-  <img src="https://streak-stats.demolab.com/?user=Beijukabruno&theme=radical&hide_border=true" />
+<!--  <img src="https://streak-stats.demolab.com/?user=Beijukabruno&theme=radical&hide_border=true" /> -->
 
 </div>
 
