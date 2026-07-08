@@ -1,8 +1,8 @@
 # Hi, I’m Beijuka Bruno 👋
 
-I’m an AI researcher and builder based in Kampala, Uganda, focused on developing practical, locally relevant AI solutions for healthcare. My work sits at the intersection of **machine learning, clinical research, AI4 Social GoodAI in Health and real-world deployment**, with a strong emphasis on underserved populations and female health.
+I’m an AI researcher based in Kampala, Uganda, focused on developing practical, locally relevant AI solutions for healthcare. My work sits at the intersection of **machine learning, clinical research, AI4 Social Good, and real-world deployment**, with a strong emphasis on underserved populations and female health.
 
-I care about building systems that don’t just perform well in papers—but actually *work where they are needed most*.
+I care about building systems that don’t just perform well in papers but actually *work where they are needed most*.
 
 ---
 
